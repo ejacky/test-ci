@@ -2,3 +2,7 @@ language: node_js
 
 node_js:
  - "0.10"
+
+
+notifications:
+  webhooks: https://hooks.pubu.im/services/w3rm9pddg199tw4
